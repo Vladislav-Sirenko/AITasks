@@ -1,0 +1,4 @@
+C:\Users\Vladyslav_Sirenko2\Desktop\AI\task2.2.2-c-sharp-new-class-service-generation-template\NewClassServiceGeneration\obj\Debug\net6.0\NewClassServiceGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladyslav_Sirenko2\Desktop\AI\task2.2.2-c-sharp-new-class-service-generation-template\NewClassServiceGeneration\obj\Debug\net6.0\NewClassServiceGeneration.AssemblyInfoInputs.cache
+C:\Users\Vladyslav_Sirenko2\Desktop\AI\task2.2.2-c-sharp-new-class-service-generation-template\NewClassServiceGeneration\obj\Debug\net6.0\NewClassServiceGeneration.AssemblyInfo.cs
+C:\Users\Vladyslav_Sirenko2\Desktop\AI\task2.2.2-c-sharp-new-class-service-generation-template\NewClassServiceGeneration\obj\Debug\net6.0\NewClassServiceGeneration.csproj.CoreCompileInputs.cache
